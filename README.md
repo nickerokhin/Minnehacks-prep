@@ -11,22 +11,22 @@ Minnehacks 2017 prep/brainstorm
 
 ## Sponsors:
 
-OPTUM
+OPTUM - Health Services innovation company
 
-IBM
+IBM - You should know
 
-PANTHEON
+Pantheon - Website managment platform, most likely going to have a template for easier website launch
 
-MAVERICK
+Maverick - Software consulting, pairs students seeking jobs with companies looking for talent 
 
-shavlik
+shavlik - High end IT 
 
-MorphoTrust USA
+MorphoTrust USA - facilitates secure online transacions
 
-Concord
+Concord - Data stuff
 
-Google
+Google - couldn't find anything on them
 
-Iron Yard
+The Iron Yard - Code school
 
-UGP
+UGP - Merch printing company
