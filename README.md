@@ -1,3 +1,4 @@
+## Participants
 Matt Kaiser
 
 Andrew Casner
@@ -8,7 +9,7 @@ Nick Erokhin - Backend (PHP, MySQL/Mongo)
 Minnehacks 2017 prep/brainstorm
 
 
-Sponsors:
+## Sponsors:
 
 OPTUM
 
