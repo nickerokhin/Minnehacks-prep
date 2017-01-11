@@ -1,4 +1,4 @@
-# ${1:Minnehacks 2017 prep/brainstorm}
+# Minnehacks 2017 prep/brainstorm
 
 ## Participants
 Matt Kaiser
