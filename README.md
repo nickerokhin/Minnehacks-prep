@@ -14,7 +14,7 @@ Nick Erokhin - Backend (PHP, MySQL/Mongo)
 
 OPTUM - Health Services innovation company
 
-IBM - You should know
+IBM - Watson analytics, notification systems, and cloud computing 
 
 Pantheon - Website managment platform, most likely going to have a template for easier website launch
 
@@ -26,7 +26,7 @@ MorphoTrust USA - facilitates secure online transacions
 
 Concord - Data stuff
 
-Google - couldn't find anything on them
+Google - Maps and cloud computing with drive
 
 The Iron Yard - Code school
 
